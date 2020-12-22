@@ -1,0 +1,9 @@
+version: "2"
+services:
+  xupnpdv2:
+    image: lordpedal/xupnpdv2
+    container_name: Xupnpdv2
+    network_mode: host
+    volumes:
+      - '~/docker/xupnpdv2/listas:/xupnpd2/media'
+    restart: always
