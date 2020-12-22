@@ -1,5 +1,6 @@
 # Debian 10 - Constructor
 FROM debian:buster-slim as builder
+LABEL maintainer "Lordpedal"
 
 # Variable
 ENV DEBIAN_FRONTEND noninteractive
@@ -15,6 +16,7 @@ RUN cd / && git clone https://github.com/clark15b/xupnpd2 && \
 
 # Debian 10
 FROM debian:buster-slim as run
+LABEL maintainer "Lordpedal"
 
 # Instalacion dependencias
 RUN  apt-get update && \
