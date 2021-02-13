@@ -16,7 +16,7 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas",24h
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",Teledeporte
+#EXTINF:-1 group-title="Generalistas",TDP
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas",Clan TV
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
