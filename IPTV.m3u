@@ -20,3 +20,7 @@ https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 #EXTINF:-1 group-title="Generalistas",Clan TV
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+#EXTINF:-1 group-title="Generalistas",7RM
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="Musica",XtraHits TV
+https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
