@@ -39,7 +39,7 @@ RUN chown xupnpd /xupnpd2 -R
 USER xupnpd
 
 # Variables M3U
-ENV M3U_URL https://www.tdtchannels.com/lists/tvradio.m3u
+ENV M3U_URL https://raw.githubusercontent.com/Lordpedal/xupnpdv2/main/IPTV.m3u
 
 # Arranque Docker
 CMD ["/bin/bash", "./lordpedal.sh"]
