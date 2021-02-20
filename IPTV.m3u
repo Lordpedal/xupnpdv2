@@ -22,5 +22,39 @@ https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 group-title="Generalistas",7RM
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="Generalistas",TR3CE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Generalistas",El Toro TV
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Generalistas",Negocios TV
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
+#EXTINF:-1 group-title="Generalistas",Canal Sur Andalucia
+https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
+#EXTINF:-1 group-title="Generalistas",Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 group-title="Generalistas",TV Canaria
+https://rtvc-live1.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="Generalistas",TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="Noticias",RT
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1 group-title="Noticias",Bloomberg Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 group-title="Noticias",France 24
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Noticias",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 group-title="Deportes",Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF:-1 group-title="Deportes",Best Cable Sports Peru
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 #EXTINF:-1 group-title="Musica",XtraHits TV
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
+#EXTINF:-1 group-title="Musica",Activa TV España
+https://streamtv.mediasector.es/hls/activatv/master.m3u8
+#EXTINF:-1 group-title="Musica",Cadena Elite España
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:-1 group-title="Musica",Mola TV España
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="Musica",Urban Revolution España
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
