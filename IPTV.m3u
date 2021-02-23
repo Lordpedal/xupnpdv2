@@ -30,18 +30,12 @@ https://live1-eltorotv.flumotion.com/playlist.m3u8
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 #EXTINF:-1 group-title="Generalistas",TV3 Cataluña
 http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",La Otra
-https://laotrahls-live-hls.secure.footprint.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 group-title="Generalistas",Cloudtrend Service
+#EXTINF:-1 group-title="Generalistas",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="Generalistas",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="Generalistas",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="Generalistas",AndorraTV
-https://videos.rtva.ad/live/web/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",RTV Ceuta
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1 group-title="Generalistas",RTV Canarias
 http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
 #EXTINF:-1 group-title="Generalistas",TeleMadrid
@@ -50,8 +44,6 @@ https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitra
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="Generalistas",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-#EXTINF:-1 group-title="Generalistas",CCM Castilla la Mancha
-http://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/https/uiConfId/39582391/a.m3u8
 #EXTINF:-1 group-title="Generalistas",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="Generalistas",TV Canaria
