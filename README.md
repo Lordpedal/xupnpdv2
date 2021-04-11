@@ -37,7 +37,7 @@ Necesario crear la carpeta donde se almacenan las listas M3U con permisos de usu
 
 | Parámetro | Función |
 | ------ | ------ |
-| `--net=host` | Habilitamos el uso de la red `host` en vez de una virtual para docker |
+| `--net=host` | Habilitamos uso de la red `host` en vez de una virtual para docker |
 | `-v $HOME/docker/xupnpdv2/listas:/xupnpd2/media` | Ruta donde se leen/almacenan listas localmente |
 
 ## Gestión Web
