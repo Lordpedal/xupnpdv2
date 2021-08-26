@@ -6,58 +6,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8
 #EXTINF:-1 group-title="Latino",Miami TV Latino HD
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
-#EXTINF:-1 group-title="Generalistas",TVG Galicia
-http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 group-title="Generalistas",TVG America
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",La 1
-https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",La 2
-https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",24h
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",TDP
-https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",Clan TV
-https://rtvelivestream.akamaized.net/clan_main_dvr.m3u8
-#EXTINF:-1 group-title="Generalistas",7RM
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="Generalistas",TR3CE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",Canal Sur Andalucia
-https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",TV3 Cataluña
-http://directes-tv-es.ccma.cat/es/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",CGTN
-https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="Generalistas",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="Generalistas",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 group-title="Generalistas",RTV Canarias
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",TeleMadrid
-https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-1 group-title="Generalistas",EITB
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 group-title="Generalistas",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-#EXTINF:-1 group-title="Generalistas",Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 group-title="Generalistas",TV Canaria
-https://rtvc-live1.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="Generalistas",TV3
-https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
-#EXTINF:-1 group-title="Noticias",RT
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 group-title="Noticias",France 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
-#EXTINF:-1 group-title="Noticias",Sky News
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 group-title="Deportes",Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
 #EXTINF:-1 group-title="Musica",XtraHits TV
 https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 #EXTINF:-1 group-title="Musica",Mola TV España
