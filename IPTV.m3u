@@ -2,15 +2,7 @@
 #EXT-X-M3U: type=ts handler=hls name="IPTV"
 #EXTINF:0 group-title="Deporte",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="Latino",Miami TV HD
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/master.m3u8
-#EXTINF:-1 group-title="Latino",Miami TV Latino HD
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
 #EXTINF:-1 group-title="Generalistas",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="Musica",XtraHits TV
-https://mccdn-hls-a01-rbx.datah0stn3t.com/live/xtra/index.m3u8
 #EXTINF:-1 group-title="Musica",Mola TV España
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 group-title="Radio",Radio m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
